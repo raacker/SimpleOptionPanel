@@ -1,4 +1,3 @@
 # SimpleOptionPanel
-Simple (could be silly) OptionPanel for Unity 2D UI
 
-
+I had a chance to make customizable Option Panel but there could be any of you guys who needs very simple Option Panel on Canvas without pain. So... here it is!
